@@ -1,0 +1,7 @@
+names:
+- License_Plate
+nc: 1
+path: /Users/prateek/Study/SEM 6 /CV PROJECT /jupyter-notebook/data/foggy-license-plate-dataset
+test: test/images
+train: train/images
+val: valid/images
